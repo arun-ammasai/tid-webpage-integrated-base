@@ -1,0 +1,19 @@
+{
+  "name": "tid-webpage",
+  "version": "1.0.0",
+  "description": "TID Operation Webpage",
+  "main": "app.js",
+  "scripts": {
+    "start": "serve -l 53773"
+  },
+  "keywords": [
+    "TID",
+    "webpage",
+    "operation"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
