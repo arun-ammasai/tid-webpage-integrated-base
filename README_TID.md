@@ -6,4 +6,4 @@ After login, user info is displayed.
 To complete the setup:
 
 Replace the placeholders in app.js for TID_CLIENT_ID and TID_REDIRECT_URI with your actual values from the Trimble Developer Portal.
-For production, move the token exchange to a backend server for security.
+For production, move the token exchange to a backend server for security. All the best
